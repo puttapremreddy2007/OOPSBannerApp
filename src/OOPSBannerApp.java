@@ -1,10 +1,18 @@
-public class UC1 {
+/*
+*OOPSBannerApp UC2
+*
+*@author Prem
+*@version 2.0 
+*/
 
-
-
-public static void main(String[] args) {
-System.out.println(x: "00PS");
-
-}
-
+public class OOPSBannerApp{
+    public static void main(String[] args) {
+        System.out.println("   *** " + " " + "     *** " + " " + "   ****** " + " " + "       ***** ");
+        System.out.println(" **   ** " + " " + " **   ** " + " " + " **    ** " + " " + "   **     ** ");
+        System.out.println(" **   ** " + " " + " **   ** " + " " + " **    ** " + " " + " ** ");
+        System.out.println(" **   ** " + " " + " **   ** " + " " + " ****** " + " " + "      ***** ");
+        System.out.println(" **   ** " + " " + " **   ** " + " " + " ** " + " " + "               ** ");
+        System.out.println(" **   ** " + " " + " **   ** " + " " + " ** " + " " + "     **      ** ");
+        System.out.println("   *** " + " " + "     *** " + " " + "   ** " + " " + "        ***** ");
+    }
 }
